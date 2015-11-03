@@ -1,0 +1,1 @@
+I am an analyst at PG&E. I've lived in California for almost 4 years. I grew up in New Jersey and went to college in Florida. In my spare time, I like to spend time with my dog, bake and read. I am interested in forecasting energy use using machine learning.
